@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navegar até a pasta do curso
-cd ~/temp/UFPEL/AULAS/Computer-Networks-Course
+cd ~/temp/UFPEL/AULAS/Computer-Networks-Course # escifique o diretório
 
 # Criar os diretórios principais
 mkdir -p docs/lecture_notes docs/assignments
