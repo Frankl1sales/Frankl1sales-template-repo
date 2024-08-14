@@ -1,3 +1,8 @@
+# Comentário sobre permissões
+# Para tornar este script executável, use o comando:
+# chmod +x criar_estrutura.sh
+# Isso garante que o script tenha permissões de execução, permitindo que seja executado diretamente.
+
 #!/bin/bash
 
 # Navegar até a pasta do curso
